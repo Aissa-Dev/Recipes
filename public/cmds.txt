@@ -1,0 +1,3 @@
+setup:
+- npm init : to keep track dependencises
+- npm i tailwindcss
